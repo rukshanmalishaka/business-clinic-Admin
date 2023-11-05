@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 $dbHost     = "localhost";
-$dbUsername = "refectli_TestPhp";
+$dbUsername = "";
 $dbPassword = "";
-$dbName     = "refectli_testphp";
+$dbName     = "";
 
 // Create database connection
 $db = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
