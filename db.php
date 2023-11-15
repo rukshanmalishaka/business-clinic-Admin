@@ -1,6 +1,6 @@
 <?php
 // Database configuration
-$dbHost     = "localhost";
+$dbHost     = "";
 $dbUsername = "";
 $dbPassword = "";
 $dbName     = "";
